@@ -1,0 +1,23 @@
+{
+  "collections": [
+      {
+          "id": "2",
+          "title": "project on react mobile contacts",
+          "body": "mobile contacts",
+          "image": "https://live.staticflickr.com/65535/52957259125_685419544f_n.jpg",
+          "price": "349"
+      },
+      {
+          
+              "id": "1",
+              "title": "project on react",
+              "body": "project on react contains basic demo of a profile website",
+              "image": "https://live.staticflickr.com/65535/52955545348_1591471931_w.jpg",
+              "price": "499"
+          
+      }
+  ],
+  "regesters":[
+      {"mail":"niteeshkumarsatyapu@gmail.com","password":"niteesh"}
+  ]
+}
